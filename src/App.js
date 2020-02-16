@@ -51,7 +51,7 @@ class App extends Component {
 
   render() {
     return (
-        <HashRouter basename='/'>
+      //  <HashRouter basename='/'>
       <div className="App">
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
@@ -61,7 +61,7 @@ class App extends Component {
         <Contact data={this.state.resumeData.main}/>
         <Footer data={this.state.resumeData.main}/>
       </div>
-        </HashRouter>
+      //  </HashRouter>
 
     );
   }
