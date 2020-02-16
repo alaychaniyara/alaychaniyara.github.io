@@ -1,0 +1,223 @@
+{
+  "main": {
+    "name":"Alay Chaniyara",
+    "occupation":"Software Engineer",
+    "occupation2":"Mobile Developer",
+
+    "description":"Effiency is the key, and I pride in finding quick and quirky solutions to the problems in front of me. I code faster than I speak, eat or run, and always make it a point to keep it plain, precise and polished. ",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "alay.chaniyara23@gmail.com",
+    "email2": "achaniya@uncc.edu",
+    "phone": "704-606-6263",
+    "address":{
+
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip": "28262"
+    },
+    "website": "http://www.alaychaniyara.com",
+    "resumedownload":"https://drive.google.com/file/d/1YxCabndw2-ilmfDHMebakP1tj8YNYk1T/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/alay-chaniyara23/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/alaychaniyara/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/alaychaniyara",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/w6JSvocfr7dq",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of North Carolina at Charlotte",
+        "degree": "Masters of Science in Computer Science",
+        "graduated": "May 2019",
+        "description": " I started my educational journey in United states at University of North Carolina Charlotte in 2017 by pursuing my career in Masters of Computer Science. I was enthralled with an opportunity of learning in most diverse culture with modern technology. Craving for new knowledge led me to doorsteps of Data Science courses and expanded my horizon through the field. Having a passion for software development, I was also avid to learn Android and iOS Development. I enhanced my leadership and teamwork skills by an opportunity presented to me by professors to work as a Graduate Teaching Assistant and volunteering for International Student and Scholar Office and was highly applauded for my work. "
+      },
+      {
+        "school": "Shivaji University",
+        "degree": "Bachelors in Computer Science and Engineering",
+        "graduated": "May 2016",
+        "description": "I began my computer science career from 2012 at Kolhapur Institute of Technology’s College of Engineering in India. During the four years of my bachelors I gained an understanding of the basics in programming, algorithms, data structures, networking, operating systems concepts and learned numerous technologies like C, C++, Java, C#, SQL, PHP, JavaScript, HTML, CSS, etc. I was highly involved in organizing various college events, participating in college sports and extra-curricular activities. I volunteered for various colleges committees and charitable organizations."
+      }
+    ],
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skills": [
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Android",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "75%"
+      },
+      {
+        "name": "iOS(Swift)",
+        "level": "50%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "60%"
+      },
+      {
+        "name": "NoSQL-Databases",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      }
+    ],
+    "work": [
+      {
+        "company": "Allegro Organizational Solutions",
+        "title": "Digital Services & Web Developer ",
+        "years": "August 2019 - December 2019",
+        "description": "Contributed to development of new Enterprise Management System for handling the back-office administrative duties on weekly basis.  The task involved the use of React, writing complex queries using SQL and handle backend communication using PHP."
+      },
+      {
+        "company": "UNCC's College of Computing and Informatics",
+        "title": "Gradaute Teaching Assitant",
+        "years": "January 2018 - May 2019",
+        "description": "Responsible for Leading a team TA's, conducting exams, grading project presentations & tests and also holding weekly discussion sessions. Improved the average passing grades by 50% over 3 semesters by working individually with students who received grades less than 60%. The Professor really appreciated me for helping him Tutor more than 200+ students each semester on Software Design and Implementation Principles, Agile, UML Diagrams."
+      },
+      {
+        "company": "Datatech Information Services, Inc.",
+        "title": "Data Analytics Intern",
+        "years": "July 2018 - August 2018",
+        "description": "Performed Data & Statistic Analysis using the Social Media Tools to find bring more business for the company. Along with that I carried out improvements to company website to enhance user experience and attract more clients. "
+      },
+      {
+        "company": "Sxope Consolidate",
+        "title": "Web Developer Trainee",
+        "years": "September 2016 - July 2017",
+        "description": "Assisted on increasing internet presence of small Indain, Australian clients growing their business by at least 20%. The task involved use of engineering customized & responsive websites with help of PHP, MySQL, AJAX, SEO, etc. technologies. "
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Class Chatroom",
+        "category":"Android Application",
+        "image":"ClassChatroom_Project.png",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Survey Tool",
+        "category":"Android and Web Application",
+        "image":"Survey_Project.jpeg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"E-Mployee System",
+        "category":"Web Application",
+        "image":"E-mployee_Project.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"AirBNB in New York City",
+        "category":"Big Data",
+        "image":"AirBnbNYC_Project.gif",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Task Manager",
+        "category":"Android Application",
+        "image":"TaskManager_Project.png",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Health Checkup SMS Server",
+        "category":"Android Application",
+        "image":"HealthSMS_Project.png",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Grocery Proximity using BLE Beacon",
+        "category":"Android Application",
+        "image":"BLE_Project.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"iTUNES AppStore",
+        "category":"iOS Application",
+        "image":"iTUNES_Project.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Note-Book Application",
+        "category":"iOS/Android Application",
+        "image":"Notebook_Project.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Photo Gallery",
+        "category":"iOS/Android Application",
+        "image":"PhotoGallery_Project.jpeg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Poster Evaluation",
+        "category":"iOS/Web/Android Application",
+        "image":"PosterEvaluation_Project.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
